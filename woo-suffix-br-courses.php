@@ -6,7 +6,7 @@
  * Version: 1.0
  * Author: Tiago Rodrigues
  * Author URI: https://tiagorodrigues.dev
- * Requires at least: 5.8
+ * Requires at least: 7.0
  * Requires PHP: 7.2
  *
 */

@@ -4,7 +4,7 @@ Contributors: Tiago Rodrigues
 
 Tags: suffix, brasil, cursos, ebook, notas, notazz, enotas
 
-Requires at least: 6.1
+Requires at least: 6.0
 
 Tested up to: 6.1.1
 
