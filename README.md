@@ -1,4 +1,4 @@
-# WooCommerce Products Suffix for Brazilian Courses
+# Products Suffix for Brazilian Courses
 
 Contributors: Tiago Rodrigues
 

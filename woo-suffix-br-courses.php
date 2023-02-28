@@ -1,6 +1,6 @@
 <?php
 /*
- * Plugin Name: WooCommerce Products Suffix for Brazilian Courses
+ * Plugin Name: Products Suffix for Brazilian Courses
  * Plugin URI: https://tiagorodrigues.dev
  * Description: Este plugin adiciona automaticamente o sufixo e-book a todos os produtos ao finalizar uma compra. Não altera o nome original do produto, apenas permite que os pedidos sejam emitidos como NF-e por ser um e-book e não um curso.
  * Version: 1.0
